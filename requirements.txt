@@ -1,0 +1,12 @@
+# requirements.txt
+# Add your project dependencies here
+
+fastapi
+uvicorn
+Pillow
+matplotlib
+numpy
+rawpy
+imageio
+wand
+halo
